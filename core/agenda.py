@@ -114,5 +114,5 @@ class Agenda:
         if self.cursor and self.conexao:
             print("Encerrando conexão...")
             self.cursor.close()
-            self.conexao.commit()
+            self.conexao.close()
             
