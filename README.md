@@ -1,6 +1,8 @@
 # 📱 Agenda de Contatos - Tkinter + MySQL
 
-Projeto desenvolvido com foco educacional, utilizando **Python com Tkinter e MYSQL** para criação de uma interface gráfica simples e funcional de gerenciamento de contatos.
+Projeto desenvolvido com foco educacional (Sob tutoria do professor Wanderson, Obrigado pelo apoio!)
+
+Utilizando **Python com Tkinter e MYSQL** para criação de uma interface gráfica simples e funcional de gerenciamento de contatos.
 
 ---
 
