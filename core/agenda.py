@@ -111,7 +111,8 @@ class Agenda:
             self.conexao.commit()
     #Encerra conexão       
     def fechar_conexao(self):
-        if self.conexao:
-            self.conexao.close()
-        if self.cursor:
+        if self.cursor and self.conexao:
+            print("Encerrando conexão...")
             self.cursor.close()
+            self.conexao.commit()
+            
