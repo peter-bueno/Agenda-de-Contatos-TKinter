@@ -10,7 +10,7 @@ Projeto desenvolvido com foco educacional, utilizando **Python com Tkinter e MYS
 
 > *(![contato adicionado](assets/msg_contato_adicionado.png))*
 
-####  Contato Editado: 
+####  Contato Atualizado: 
 
 > *(![contato adicionado](assets/msg_contato_atualizado.png))*
 
